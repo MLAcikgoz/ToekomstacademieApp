@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToekomstacademieApp", "ToekomstacademieApp\ToekomstacademieApp.csproj", "{B31EDAA9-81C6-4135-9D8D-7BCB03B444D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B31EDAA9-81C6-4135-9D8D-7BCB03B444D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31EDAA9-81C6-4135-9D8D-7BCB03B444D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31EDAA9-81C6-4135-9D8D-7BCB03B444D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31EDAA9-81C6-4135-9D8D-7BCB03B444D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C48394A4-D0C4-4979-87BF-E6ADFBF96F75}
+	EndGlobalSection
+EndGlobal
